@@ -1,0 +1,23 @@
+#navicon{
+    height: 18px;
+    padding-bottom: 4px;
+}
+
+.food{
+  height: 220px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.column{
+  border-style: solid;
+  margin-top: 30px;
+  border-width: 0.5px;
+  
+}
+.column:hover{
+  background: #e1e1e1;
+  border-top: 1px solid #000000;
+  
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/background.jpg);
+    height:750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.container{
+    opacity: 90%;
+    margin-top: 10%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    border-style: solid;
+    border-radius: 1%;
+}
+
+h1{
+    padding-bottom: 3%;
+    padding-left: 40%;
+}
